@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OpenIGTLink:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/</output-path>
+    <root id="archive" name="OpenIGTLink.jar">
+      <element id="module-output" name="OpenIGTLink" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/OpenIGTLink/lib/nrsdk-3.13.7-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/OpenIGTLink/lib/nrsdk-3.8.8-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/OpenIGTLink/lib/Jama-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/OpenIGTLink/lib/nrsdk-3.9.1-jar-with-dependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
